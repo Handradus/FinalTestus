@@ -1,4 +1,4 @@
-[!IMPORTANT]
+**[!IMPORTANT]**
 
 👻
 Clase 2 Metodologia de desarrollo
